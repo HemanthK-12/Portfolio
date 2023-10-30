@@ -1,1 +1,2 @@
-console.log("Hello World!");
+var height;
+console.log(height);
